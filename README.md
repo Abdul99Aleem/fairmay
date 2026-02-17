@@ -1,2 +1,1 @@
-# fairmay
-.
+# fairmay!
